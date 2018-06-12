@@ -18,6 +18,7 @@ RUN apt-get update && apt-get install -q -y \
     git \
     gnupg2 \
     libasio-dev \
+    libassimp-dev \
     libcurl4-openssl-dev \
     libeigen3-dev \
     libfreetype6-dev \

@@ -17,6 +17,7 @@ images:
             - cppcheck
             - git
             - libasio-dev
+            - libassimp-dev
             - libcurl4-openssl-dev
             - libeigen3-dev
             - libfreetype6-dev
